@@ -2,9 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShoKatsuki06&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-
 <img src="https://github-profile-trophy.vercel.app/?username=ShoKatsuki06&theme=juicyfresh&no-bg=true" />
 
+pythonが9割を占めているのですが、業務ではJava,php,jsがメインです🤩
 <!--
 **ShoKatsuki06/ShoKatsuki06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
