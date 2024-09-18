@@ -1,10 +1,15 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShoKatsuki06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+### 😎 About ShoKatsuki06
+I am a graduate student at Shizuoka University, and currently work for a contract development company and as an executive at a startup.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShoKatsuki06&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+### 🧑‍💻 my skills
+ [![My Skills](https://skillicons.dev/icons?i=js,python,django,flask,java,spring,react,php,laravel,html,css,sass,aws,azure)](https://skillicons.dev)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShoKatsuki06&theme=juicyfresh&no-bg=true" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoKatsuki06&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShoKatsuki06" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,php,laravel)](https://skillicons.dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShoKatsuki06&margin-w=5)](https://github.com/ShoKatsuki06/)
 <!--
 **ShoKatsuki06/ShoKatsuki06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
