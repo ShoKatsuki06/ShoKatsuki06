@@ -4,7 +4,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShoKatsuki06&theme=juicyfresh&no-bg=true" />
 
-pythonが9割を占めているのですが、業務ではJava,php,jsがメインです🤩
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,php,laravel)](https://skillicons.dev)
 <!--
 **ShoKatsuki06/ShoKatsuki06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
