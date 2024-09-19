@@ -2,7 +2,7 @@
 I am a graduate student at Shizuoka University, and currently work for a contract development company and as an executive at a startup.
 
 ### 🧑‍💻 my skills
- [![My Skills](https://skillicons.dev/icons?i=ts,js,python,django,flask,java,spring,react,php,laravel,html,css,sass,aws,azure,git,github,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,js,python,django,flask,java,spring,react,php,laravel,html,css,sass,aws,azure,git,github,figma,linux,instagram,docker)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoKatsuki06&layout=compact&show_icons=true" />
